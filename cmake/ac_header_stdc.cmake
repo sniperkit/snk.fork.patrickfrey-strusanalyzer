@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # analogue of AC_HEADER_STDC automake macro.
 # copied from https://github.com/sphinxsearch/sphinx/cmake/ac_header_stdc.cmake
 # and https://github.com/sphinxsearch/sphinx/cmake/helpers.cmake
